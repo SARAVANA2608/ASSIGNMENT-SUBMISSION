@@ -1,0 +1,15 @@
+.para1{
+    background-color: brown;
+    color: wheat;
+    font-size:30px;
+    font-family:sans-serif;
+}
+.marquee{
+    background-color: chartreuse;
+}
+.marquee h1{
+    background-color: darkblue;
+    color: wheat;
+    width: 510px;
+    font-family: sans-serif;
+}
